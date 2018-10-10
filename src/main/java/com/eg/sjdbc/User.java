@@ -1,6 +1,10 @@
 package com.eg.sjdbc;
 //This is the first change............
 //.........############...............
+
+//###############################################
+/*This is the change made from remote repository*/
+//############################################
 public class User {
 	private int id;
 	private String name;
